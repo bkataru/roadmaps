@@ -15,7 +15,7 @@ documenting how I've learned, learn, and plan to learn things I find interesting
 
 ## Fortran
 
-- [ ] [Fortran Tutorial](https://www.youtube.com/watch?v=__2UgFNYgf8&t=748s)
+- [x] [Fortran Tutorial](https://www.youtube.com/watch?v=__2UgFNYgf8&t=748s)
 - [ ] [Modern Fortran: Building efficient parallel applications](https://g.co/kgs/CfQHqTy)
 - [ ] [Numerical Recipes in Quantum Information Theory and Quantum Computing](https://g.co/kgs/pg63y67)
 
@@ -25,3 +25,8 @@ documenting how I've learned, learn, and plan to learn things I find interesting
 - [x] [📱🧋 Bubble Tea App • Flutter Tutorial](https://www.youtube.com/watch?v=Lm_XCijreJk)
 - [x] [Dart by Example](https://www.jpryan.me/dartbyexample/)
 - [ ] [🎓📱 FULL Flutter Masterclass: Beginner to Pro](https://www.youtube.com/watch?v=TclK5gNM_PM&t=17598s)
+
+## Rust
+
+- [ ] [Rust Tutorial Full Course](https://www.youtube.com/watch?v=ygL_xcavzQ4)
+- [ ] [The Rust Programming Language a.k.a. "The Book"](https://doc.rust-lang.org/book/)
