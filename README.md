@@ -16,6 +16,7 @@ documenting how I've learned, learn, and plan to learn things I find interesting
 ## Fortran
 
 - [x] [Fortran Tutorial](https://www.youtube.com/watch?v=__2UgFNYgf8&t=748s)
+- [ ] [High Performance Fortran Programming Exercises](https://www.phys.uri.edu/~nigh/HTMLHPFCourse/HTMLHPFCourseQuestions.html)
 - [ ] [Modern Fortran: Building efficient parallel applications](https://g.co/kgs/CfQHqTy)
 - [ ] [Numerical Recipes in Quantum Information Theory and Quantum Computing](https://g.co/kgs/pg63y67)
 
