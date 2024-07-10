@@ -13,6 +13,16 @@ documenting how I've learned, learn, and plan to learn things I find interesting
       - almost done, need to finish exercises
 - [ ] [PyTorch Tutorials](https://www.youtube.com/playlist?list=PLhhyoLH6IjfxeoooqP9rhU3HJIAVAJ3Vz)
 
+## C
+
+- [ ] [C Video Tutorial](https://www.youtube.com/playlist?list=PLGLfVvz_LVvSaXCpKS395wbCcmsmgRea7)
+- [ ] [C Programming for Beginners | Full Course](https://www.youtube.com/watch?v=ssJY5MDLjlo)
+
+## C++
+
+- [ ] [C++ Tutorial : C++ Full Course](https://www.youtube.com/watch?v=6y0bp-mnYU0)
+- [ ] [C++ Tutorial](https://www.youtube.com/playlist?list=PLGLfVvz_LVvQ9S8YSV0iDsuEU8v11yP9M)
+
 ## Fortran
 
 - [x] [Fortran Tutorial](https://www.youtube.com/watch?v=__2UgFNYgf8&t=748s)
