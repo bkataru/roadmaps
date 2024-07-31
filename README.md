@@ -13,6 +13,10 @@ documenting how I've learned, learn, and plan to learn things I find interesting
       - almost done, need to finish exercises
 - [ ] [PyTorch Tutorials](https://www.youtube.com/playlist?list=PLhhyoLH6IjfxeoooqP9rhU3HJIAVAJ3Vz)
 
+## NLP
+
+- [ ] [NLP Demystified](https://www.youtube.com/playlist?list=PLw3N0OFSAYSEC_XokEcX8uzJmEZSoNGuS)
+
 ## C
 
 - [ ] [C Video Tutorial](https://www.youtube.com/playlist?list=PLGLfVvz_LVvSaXCpKS395wbCcmsmgRea7)
@@ -36,6 +40,11 @@ documenting how I've learned, learn, and plan to learn things I find interesting
 - [x] [📱🧋 Bubble Tea App • Flutter Tutorial](https://www.youtube.com/watch?v=Lm_XCijreJk)
 - [x] [Dart by Example](https://www.jpryan.me/dartbyexample/)
 - [ ] [🎓📱 FULL Flutter Masterclass: Beginner to Pro](https://www.youtube.com/watch?v=TclK5gNM_PM&t=17598s)
+
+## Lua
+
+- [x] [Learn basic lua](https://nvchad.com/docs/quickstart/learn-lua/)
+- [ ] [Learn Lua in Y Minutes](https://learnxinyminutes.com/docs/lua/)
 
 ## Rust
 
