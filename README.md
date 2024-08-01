@@ -44,7 +44,8 @@ documenting how I've learned, learn, and plan to learn things I find interesting
 ## Lua
 
 - [x] [Learn basic lua](https://nvchad.com/docs/quickstart/learn-lua/)
-- [ ] [Learn Lua in Y Minutes](https://learnxinyminutes.com/docs/lua/)
+- [x] [Learn Lua in Y Minutes](https://learnxinyminutes.com/docs/lua/)
+- [ ] [Lua for Programmers Part 1: Language Essentials](https://ebens.me/posts/lua-for-programmers-part-1/)
 
 ## Rust
 
