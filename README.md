@@ -15,6 +15,7 @@ documenting how I've learned, learn, and plan to learn things I find interesting
 
 ## NLP
 
+- [ ] [Advanced NLP with SpaCy](https://course.spacy.io/en/)
 - [ ] [NLP Demystified](https://www.youtube.com/playlist?list=PLw3N0OFSAYSEC_XokEcX8uzJmEZSoNGuS)
 
 ## C
