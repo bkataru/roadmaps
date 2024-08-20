@@ -20,7 +20,7 @@ documenting how I've learned, learn, and plan to learn things I find interesting
 
 ## C
 
-- [ ] [C Video Tutorial](https://www.youtube.com/playlist?list=PLGLfVvz_LVvSaXCpKS395wbCcmsmgRea7)
+- [ ] [C Video Tutorial](https://www.youtube.com/playlist?list=PLwa5Mb0ZeviUfnVBzX7QRJCdzirqOPsXO)
 - [ ] [C Programming for Beginners | Full Course](https://www.youtube.com/watch?v=ssJY5MDLjlo)
 
 ## C++
