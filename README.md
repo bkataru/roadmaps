@@ -7,13 +7,19 @@ documenting how I've learned, learn, and plan to learn things I find interesting
 - the hope is that by mapping out what & how I've learned/will learn, I can keep track of how far I've come and also keep myself accountable to have realistic learning goals by not queueing up an impossible list of resources that I will never finish.
 - the categorization is arbitrary and there will be duplicates/overlap between sections/categories. I don't care about this and would much rather not waste my time trying to optimize it.
 
-## AI
+## Artificial Intelligence
 
 - [ ] [The spelled-out intro to neural networks and backpropagation: building micrograd](https://www.youtube.com/watch?v=VMj-3S1tku0)
       - almost done, need to finish exercises
 - [ ] [PyTorch Tutorials](https://www.youtube.com/playlist?list=PLhhyoLH6IjfxeoooqP9rhU3HJIAVAJ3Vz)
 
-## NLP
+### Computer Vision (CV)
+
+- [ ] [OpenCV Python Course - Learn Computer Vision and AI](https://www.youtube.com/watch?v=P4Z8_qe2Cu0)
+- [ ] [Self-Driving Car with JavaScript Course – Neural Networks and Machine Learning](https://www.youtube.com/watch?v=Rs_rAxEsAvI)
+- [ ] [Computer Vision and Perception for Self-Driving Cars (Deep Learning Course)](https://www.youtube.com/watch?v=cPOtULagNnI)
+
+### Natural Language Processing (NLP)
 
 - [ ] [Advanced NLP with SpaCy](https://course.spacy.io/en/)
 - [ ] [NLP Demystified](https://www.youtube.com/playlist?list=PLw3N0OFSAYSEC_XokEcX8uzJmEZSoNGuS)
