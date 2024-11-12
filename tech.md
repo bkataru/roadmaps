@@ -53,3 +53,7 @@ roadmaps related to tech & computing
 
 - [ ] [Rust Tutorial Full Course](https://www.youtube.com/watch?v=ygL_xcavzQ4)
 - [ ] [The Rust Programming Language a.k.a. "The Book"](https://doc.rust-lang.org/book/)
+
+## Networking
+
+- [ ] [Networking Fundamentals](https://www.youtube.com/playlist?list=PLIFyRwBY_4bRLmKfP1KnZA6rZbRHtxmXi)
